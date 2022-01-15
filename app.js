@@ -1,5 +1,5 @@
 const express = require('express');
-const req = require('express/lib/request');
+// const req = require('express/lib/request');
 const morgan = require('morgan');
 
 const tourRouter = require('./routes/tourRoutes');
